@@ -16,7 +16,7 @@ local ReGui = {
 	Version = "1.4.7",
 	Author = "Depso",
 	License = "MIT",
-	Repository = "https://github.com/depthso/Dear-ReGui/",
+	Repository = "https://github.com/xestirasstes-boop/REgui\",
 
 	--// Configuration
 	Debug = false,
